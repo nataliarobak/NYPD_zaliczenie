@@ -1,0 +1,13 @@
+setup.py
+./src/__init__.py
+./src/analize_data.py
+./src/check_filename.py
+./src/export_data.py
+./src/korelacje.py
+./src/read_data.py
+./src/srednie_gender.py
+./src/srednie_wiek.py
+library.egg-info/PKG-INFO
+library.egg-info/SOURCES.txt
+library.egg-info/dependency_links.txt
+library.egg-info/top_level.txt
